@@ -11,7 +11,8 @@ A local tool that extracts captcha tokens from Google's reCAPTCHA V2 widget.
 1. Download & Extract ZIP
 2. `cd` into directory
 3. Run `npm install`
-4. Run `npm start`
+4. Run `npm start`  
+5. Open up chrome and navigate to `localhost:8080`
 
 ### Customizable
 - Site-Key: Currently it is supporting a test site-key provided by google.  
