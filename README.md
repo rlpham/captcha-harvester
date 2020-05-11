@@ -3,9 +3,9 @@ A local tool that extracts captcha tokens from Google's reCAPTCHA V2 widget.
 
 ### Tech Stack
 -NodeJS  
--Express
--Bootstrap
--JQuery
+-Express  
+-Bootstrap  
+-JQuery 
 
 ### Installation
 1. Download & Extract ZIP
