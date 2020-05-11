@@ -1,0 +1,26 @@
+.token-col {
+    font-size: x-small;
+}
+
+.center-align {
+    text-align: center;
+}
+
+.time-header {
+    width: 25%;
+    text-align: center;
+}
+
+.token-header {
+    width:75%;
+    text-align: center;
+}
+
+#captcha {
+    display: inline-block;
+}
+
+.captcha-table {
+    margin: 0 auto;
+    width: 80%;
+}
